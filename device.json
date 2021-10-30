@@ -1,0 +1,44 @@
+[
+  {
+    "deviceId": 1,
+    "deviceName": "A70",
+    "deviceBrand": "Samsung",
+    "creationTime": "23/09/2021 23:00"
+  },
+  {
+    "deviceId": 2,
+    "deviceName": "V3",
+    "deviceBrand": "Motorola",
+    "creationTime": "23/09/2021 23:00"
+  },
+  {
+    "deviceId": 3,
+    "deviceName": "Iphone 11",
+    "deviceBrand": "Apple",
+    "creationTime": "23/09/2021 23:00"
+  },
+  {
+    "deviceId": 4,
+    "deviceName": "A50",
+    "deviceBrand": "Sansung",
+    "creationTime": "23/09/2021 23:00"
+  },
+  {
+    "deviceId": 5,
+    "deviceName": "P20",
+    "deviceBrand": "Huawei",
+    "creationTime": "23/09/2021 23:00"
+  },
+  {
+    "deviceId": 6,
+    "deviceName": "P40",
+    "deviceBrand": "Huawei",
+    "creationTime": "23/09/2021 23:00"
+  },
+  {
+    "deviceId": 7,
+    "deviceName": "Iphone 13",
+    "deviceBrand": "Apple",
+    "creationTime": "23/09/2021 23:00"
+  }
+]
